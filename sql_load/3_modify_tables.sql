@@ -31,3 +31,4 @@ COPY geolocation FROM 'C:\Brazilian_Ecommerce_Data_Analysis\csv files\olist_geol
 /*Add any necessary modifications to the tables after loading data
 For example, adding indexes or altering columns if needed */
 
+
