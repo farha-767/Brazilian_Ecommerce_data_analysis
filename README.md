@@ -132,7 +132,7 @@ Identify high-value customer segments and their geographic distribution to optim
 ### Key Findings:
 - Top 15 customers contribute disproportionately to total revenue
 - High-value customers are concentrated in southeastern states (RJ, ES, MS)
-- 93% of top customers are single-purchase buyers, indicating significant retention opportunity
+- 93% of top customers are single-purchase buyers, indicating a significant retention opportunity
 - Only one customer in the top 15 made multiple purchases, highlighting a critical loyalty gap
 
 ### Business Impact: 
@@ -140,10 +140,7 @@ Identify high-value customer segments and their geographic distribution to optim
 Enables targeted retention campaigns and geographic-focused marketing strategies.
 
 ![customers by sales](Assets/customers_by_sales_graph.png)
-<<<<<<< HEAD
-=======
 
->>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
 *Bar graph visualizing the total sales for the Top 10 customers*
 
 ## 2. Product Performance Analysis
@@ -186,22 +183,12 @@ Determine which product categories generate the most revenue and maintain high c
 ### Business Impact: 
 Informs product assortment strategies and quality improvement initiatives.
 
-<<<<<<< HEAD
-![Top 10 products categories by revenue](Assets\product_by_revenue_graph.png)
-=======
-![Top 10 product categories by revenue](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/product_by_revenue_graph.png)
 
->>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
+![Top 10 product categories by revenue](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/product_by_revenue_graph.png)
 *Graph displaying Top 10 product categories by revenue*
 
-
-
-<<<<<<< HEAD
-![Review scores by product category](Assets\avg_review_scores.png)
-=======
 ![Review scores by product category](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/avg_review_scores.png)
 
->>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
 *Graph displaying Top 10 product categories by revenue's review score by product category*
 
 ## 3. Payment Behavior Analysis
@@ -263,12 +250,9 @@ Understand customer payment preferences and their relationship with order value 
 - Clear payment tiers exist: credit card (premium), boleto (mid-market), voucher/debit (low-value)
 - Business Impact: Guides payment processor investments and installment promotion strategies.
 
-<<<<<<< HEAD
-![Payment Method Market Share](Assets\Payment_method_market_share.png)
-=======
+
 ![Payment Method Market Share](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/Payment_method_market_share.png)
 
->>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
 *Graph displaying payment percentage by payment method*
 
 
@@ -448,7 +432,7 @@ Measure customer loyalty patterns and the economic value of repeat purchasers to
 - Only 9.94% of customers make repeat purchases, but they generate 14.76% of total revenue
 - Repeat customers are 50% more valuable than new customers ($204 vs $135 average spend)
 - Heavy reliance on new customer acquisition (90% of customer base)
-- Significant growth opportunity exists in converting one-time buyers to repeat purchasers
+- A significant growth opportunity exists in converting one-time buyers to repeat purchasers
 
 ### Business Impact:
  Provides compelling business case for loyalty program investments and retention initiatives.
@@ -465,7 +449,7 @@ Measure customer loyalty patterns and the economic value of repeat purchasers to
 Throughout this project, I significantly enhanced my SQL and data analysis capabilities:
 
 ### Advanced Query Development: 
-Mastered complex SQL operations including multi-table JOINs across customer, order, product, and payment datasets, and implemented Common Table Expressions (CTEs) for sophisticated data manipulation and modular query structures.
+Mastered complex SQL operations, including multi-table JOINs across customer, order, product, and payment datasets, and implemented Common Table Expressions (CTEs) for sophisticated data manipulation and modular query structures.
 
 ### Data Aggregation & Analysis: 
 Developed strong skills in using GROUP BY clauses and aggregate functions (COUNT, AVG, SUM) to transform raw e-commerce data into meaningful business insights and performance metrics.
@@ -477,14 +461,14 @@ Implemented conditional logic using CASE statements for advanced customer segmen
 Strengthened my ability to translate real-world e-commerce challenges into structured SQL queries that deliver actionable insights and data-driven recommendations for customer retention, product strategy, and operational efficiency.
 
 ### E-commerce Domain Expertise: 
-Gained comprehensive understanding of online retail metrics including customer lifetime value, payment behavior patterns, seasonal trends, and logistics performance analysis.
+Gained a comprehensive understanding of online retail metrics, including customer lifetime value, payment behavior patterns, seasonal trends, and logistics performance analysis.
 
 ### Analytical Problem-Solving: 
 Enhanced my capability to solve complex business problems by breaking them down into data-driven questions and creating SQL solutions that provide clear, actionable answers for strategic decision-making.
 
 # Conclusion
 
-This Brazilian E-Commerce Data Analysis project successfully demonstrates the power of SQL in transforming raw business data into actionable strategic insights. Through comprehensive analysis of customer behavior, product performance, payment patterns, and operational efficiency, this project provides a complete framework for data-driven decision making in the competitive e-commerce landscape.
+This Brazilian E-Commerce Data Analysis project successfully demonstrates the power of SQL in transforming raw business data into actionable strategic insights. Through comprehensive analysis of customer behavior, product performance, payment patterns, and operational efficiency, this project provides a complete framework for data-driven decision-making in the competitive e-commerce landscape.
 
 ### Key Business Impact
 
@@ -492,7 +476,7 @@ The analysis reveals critical opportunities for revenue growth and operational i
 
 ### Technical Achievement
 
-From a technical perspective, this project showcases advanced SQL capabilities including complex multi-table joins, sophisticated aggregation methods, and analytical functions that can be applied to real-world business challenges. The structured approach to query development and analysis provides a replicable framework for future data analytics projects.
+From a technical perspective, this project showcases advanced SQL capabilities, including complex multi-table joins, sophisticated aggregation methods, and analytical functions that can be applied to real-world business challenges. The structured approach to query development and analysis provides a replicable framework for future data analytics projects.
 
 ### Future Applications
 
