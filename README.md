@@ -189,7 +189,7 @@ Informs product assortment strategies and quality improvement initiatives.
 
 
 
-![Review scores by product category](Assets\avg_review_scores.png)
+![Review scores by product category](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/avg_review_scores.png)
 
 *Graph displaying Top 10 product categories by revenue's review score by product category*
 
@@ -252,7 +252,7 @@ Understand customer payment preferences and their relationship with order value 
 - Clear payment tiers exist: credit card (premium), boleto (mid-market), voucher/debit (low-value)
 - Business Impact: Guides payment processor investments and installment promotion strategies.
 
-![Payment Method Market Share](Assets\Payment_method_market_share.png)
+![Payment Method Market Share](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/Payment_method_market_share.png)
 
 *Graph displaying payment percentage by payment method*
 
