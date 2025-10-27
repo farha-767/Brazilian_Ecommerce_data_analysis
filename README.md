@@ -140,6 +140,7 @@ Identify high-value customer segments and their geographic distribution to optim
 Enables targeted retention campaigns and geographic-focused marketing strategies.
 
 ![customers by sales](Assets/customers_by_sales_graph.png)
+
 *Bar graph visualizing the total sales for the Top 10 customers*
 
 ## 2. Product Performance Analysis
@@ -182,12 +183,14 @@ Determine which product categories generate the most revenue and maintain high c
 ### Business Impact: 
 Informs product assortment strategies and quality improvement initiatives.
 
-![Top 10 products categories by revenue](Assets\product_by_revenue_graph.png)
+![Top 10 product categories by revenue](./Assets\product_by_revenue_graph.png)
+
 *Graph displaying Top 10 product categories by revenue*
 
 
 
-![Review scores by product category](Assets\avg_review_scores.png)
+![Review scores by product category](./Assets\avg_review_scores.png)
+
 *Graph displaying Top 10 product categories by revenue's review score by product category*
 
 ## 3. Payment Behavior Analysis
@@ -250,6 +253,7 @@ Understand customer payment preferences and their relationship with order value 
 - Business Impact: Guides payment processor investments and installment promotion strategies.
 
 ![Payment Method Market Share](Assets\Payment_method_market_share.png)
+
 *Graph displaying payment percentage by payment method*
 
 
