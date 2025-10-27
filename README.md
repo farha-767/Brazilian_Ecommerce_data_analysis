@@ -140,6 +140,10 @@ Identify high-value customer segments and their geographic distribution to optim
 Enables targeted retention campaigns and geographic-focused marketing strategies.
 
 ![customers by sales](Assets/customers_by_sales_graph.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
 *Bar graph visualizing the total sales for the Top 10 customers*
 
 ## 2. Product Performance Analysis
@@ -182,12 +186,22 @@ Determine which product categories generate the most revenue and maintain high c
 ### Business Impact: 
 Informs product assortment strategies and quality improvement initiatives.
 
+<<<<<<< HEAD
 ![Top 10 products categories by revenue](Assets\product_by_revenue_graph.png)
+=======
+![Top 10 product categories by revenue](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/product_by_revenue_graph.png)
+
+>>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
 *Graph displaying Top 10 product categories by revenue*
 
 
 
+<<<<<<< HEAD
 ![Review scores by product category](Assets\avg_review_scores.png)
+=======
+![Review scores by product category](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/avg_review_scores.png)
+
+>>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
 *Graph displaying Top 10 product categories by revenue's review score by product category*
 
 ## 3. Payment Behavior Analysis
@@ -249,7 +263,12 @@ Understand customer payment preferences and their relationship with order value 
 - Clear payment tiers exist: credit card (premium), boleto (mid-market), voucher/debit (low-value)
 - Business Impact: Guides payment processor investments and installment promotion strategies.
 
+<<<<<<< HEAD
 ![Payment Method Market Share](Assets\Payment_method_market_share.png)
+=======
+![Payment Method Market Share](https://raw.githubusercontent.com/farha-767/Brazilian_Ecommerce_data_analysis/main/Assets/Payment_method_market_share.png)
+
+>>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
 *Graph displaying payment percentage by payment method*
 
 
@@ -479,4 +498,8 @@ From a technical perspective, this project showcases advanced SQL capabilities i
 
 The methodologies and insights generated here extend beyond e-commerce to any data-rich business environment. The skills demonstrated—from data extraction and transformation to insight generation and strategic recommendation—form a foundation for continued growth in data analytics and business intelligence roles.
 
+<<<<<<< HEAD
 This project not only delivers immediate value through its specific findings but also establishes a proven approach for leveraging data to drive business success in any customer-focused organization.
+=======
+This project not only delivers immediate value through its specific findings but also establishes a proven approach for leveraging data to drive business success in any customer-focused organization.
+>>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
