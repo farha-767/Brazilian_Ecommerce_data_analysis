@@ -480,10 +480,5 @@ From a technical perspective, this project showcases advanced SQL capabilities, 
 
 ### Future Applications
 
-The methodologies and insights generated here extend beyond e-commerce to any data-rich business environment. The skills demonstrated—from data extraction and transformation to insight generation and strategic recommendation—form a foundation for continued growth in data analytics and business intelligence roles.
+The methodologies and insights generated here extend beyond e-commerce to any data-rich business environment. The skills demonstrated—from data extraction and transformation to insight generation and strategic recommendation—form a foundation for continued growth in data analytics and business intelligence roles. This project not only delivers immediate value through its specific findings but also establishes a proven approach for leveraging data to drive business success in any customer-focused organization.
 
-<<<<<<< HEAD
-This project not only delivers immediate value through its specific findings but also establishes a proven approach for leveraging data to drive business success in any customer-focused organization.
-=======
-This project not only delivers immediate value through its specific findings but also establishes a proven approach for leveraging data to drive business success in any customer-focused organization.
->>>>>>> 0086222e0f1a3ad290aa39d72db9d70334ae1493
