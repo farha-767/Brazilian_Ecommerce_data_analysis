@@ -183,7 +183,7 @@ Determine which product categories generate the most revenue and maintain high c
 ### Business Impact: 
 Informs product assortment strategies and quality improvement initiatives.
 
-![Top 10 product categories by revenue](./Assets\product_by_revenue_graph.png)
+![Top 10 product categories by revenue](https://github.com/farha-767/Brazilian_Ecommerce_data_analysis/Assets/product_by_revenue_graph.png)
 
 *Graph displaying Top 10 product categories by revenue*
 
