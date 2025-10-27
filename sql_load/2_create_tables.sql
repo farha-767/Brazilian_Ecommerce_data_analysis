@@ -113,6 +113,9 @@ DROP TABLE IF EXISTS geolocation;
 -- Dropping sellers table as it is not needed for the analysis, so dropping it
 DROP TABLE IF EXISTS sellers CASCADE;
 
+-- Dropping order_reviews table as it is not needed for the analysis
+DROP TABLE IF EXISTS order_reviews CASCADE;
+
 
 
 
