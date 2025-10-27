@@ -189,7 +189,7 @@ Informs product assortment strategies and quality improvement initiatives.
 
 
 
-![Review scores by product category](./Assets\avg_review_scores.png)
+![Review scores by product category](.\Assets\avg_review_scores.png)
 
 *Graph displaying Top 10 product categories by revenue's review score by product category*
 
